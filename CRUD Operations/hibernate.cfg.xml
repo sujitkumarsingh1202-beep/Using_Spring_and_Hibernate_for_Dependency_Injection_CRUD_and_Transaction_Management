@@ -11,7 +11,7 @@
             jdbc:mysql://localhost:3306/student_db?createDatabaseIfNotExist=true
         </property>
         <property name="hibernate.connection.username">root</property>
-        <property name="hibernate.connection.password">Sujit1202@</property>
+        <property name="hibernate.connection.password">pass123</property>
 
         <!-- JDBC dialect -->
         <property name="hibernate.dialect">org.hibernate.dialect.MySQL8Dialect</property>
